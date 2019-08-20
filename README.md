@@ -12,5 +12,6 @@ Localization support for:
 - Video
 
 Should work with Unity 2017, 2018, 2019
-Supports RTL Texts such as Arabic with the use of RTLTMPro:
+
+Support cursive RTL Texts with the use of RTLTMPro:
 https://github.com/mnarimani/RTLTMPro
