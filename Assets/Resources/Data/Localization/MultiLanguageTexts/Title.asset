@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea56a94c9fe2747478a480a56eeadf12, type: 3}
+  m_Name: Title
+  m_EditorClassIdentifier: 
+  texts:
+  - Language: {fileID: 11400000, guid: f3ca9a97a5f5ef04388bcd06eeee62a0, type: 2}
+    Text: Title
+  - Language: {fileID: 11400000, guid: 3d2d6253db32a7c439ca38a0a4a65ad3, type: 2}
+    Text: "Ba\u015Fl\u0131k"
+  - Language: {fileID: 11400000, guid: efdf00e9da089344abc48cd3369f8a6f, type: 2}
+    Text: "\u0644\u0642\u0628"
+  - Language: {fileID: 11400000, guid: 940c4981507775b42a34933273b9917f, type: 2}
+    Text: "\u6807\u9898"
+  - Language: {fileID: 11400000, guid: cde90ebe1893b9342aa574092e4235a5, type: 2}
+    Text: "\u6A19\u984C"
